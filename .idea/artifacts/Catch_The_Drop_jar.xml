@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Catch_The_Drop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Catch_The_Drop_jar</output-path>
+    <root id="archive" name="Catch_The_Drop.jar">
+      <element id="module-output" name="Catch_The_Drop" />
+    </root>
+  </artifact>
+</component>
